@@ -190,7 +190,7 @@ let back = document.querySelector(".body");
 let count = 0;
 let i = 0;
 let j = 0;
-let numbersArray = createArrayOfNumbers(1, 100);
+let numbersArray = createArrayOfNumbers(1, 70);
 btn.addEventListener("click", showNums);
 
 
