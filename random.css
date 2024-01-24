@@ -278,9 +278,6 @@
     box-shadow: 7px 7px #b1b1b1;
 }
 
-
-element.style {
-}
 .text {
     font-family: 'FS Magistral';
     src: url(font/FSMagistralLight.woff2) format('woff2'), url(font/FSMagistralLight.woff) format('woff');
