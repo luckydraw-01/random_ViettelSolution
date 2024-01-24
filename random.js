@@ -67,6 +67,12 @@ function showNums() {
     }
     if (numrd.length === 2) {
         setTimeout(function () {
+            output1.innerHTML = 0;
+        }, 2100);
+        setTimeout(function () {
+            output2.innerHTML = 0;
+        }, 4100);
+        setTimeout(function () {
             output3.innerHTML = numrd[0];
         }, 6100);
         setTimeout(function () {
@@ -74,6 +80,9 @@ function showNums() {
         }, 7100);
     }
     if (numrd.length === 1) {
+        setTimeout(function () {
+            output1.innerHTML = 0;
+        }, 2100);
         setTimeout(function () {
             output2.innerHTML = 0;
         }, 4100);
