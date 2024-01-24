@@ -226,8 +226,8 @@
     left: 49%;
     top: -144%;
     transform: translatex(-50%);
-    width: 37%;
-    height: 180%;
+    width: 42%;
+    height: 164%;
 }
 
 .title {
@@ -240,7 +240,7 @@
 .title-text-style {
     position: absolute;
     left: 50%;
-    top: -60%;
+    top: -70%;
     transform: translate(-50%, -50%);
     color: rgb(224, 34, 62);
     letter-spacing: 8px;
